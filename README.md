@@ -31,7 +31,7 @@ Measured average time in minutes for users to move from page view to cart and ca
 Calculated total revenue, average order value, revenue per buyer and revenue per visitor.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Sales_Funnel_Analysis.pdf)
 
 ## Key Findings
 - Overall funnel conversion rate from page view to purchase was 18.5%
@@ -40,4 +40,4 @@ Calculated total revenue, average order value, revenue per buyer and revenue per
 - Total revenue across the period was R87.98K
 
 ## SQL Queries
-Full analysis available in [`funnel_analysis.sql`](funnel_analysis.sql)
+Full analysis available in [`Funnel_Analysis.sql`](Funnel_Analysis.sql)
