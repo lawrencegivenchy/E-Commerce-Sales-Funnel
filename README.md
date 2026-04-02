@@ -39,5 +39,12 @@ Calculated total revenue, average order value, revenue per buyer and revenue per
 - Average total journey from first view to purchase was 24.63 minutes
 - Total revenue across the period was R87.98K
 
+## Recommendations
+
+- The biggest drop-off occurs between page views and add-to-cart (~60%) — investigate product page quality, pricing clarity, and load speed.
+- Compare organic vs paid ads conversion rates to determine where marketing budget is best spent.
+- Average journey is under 25 minutes — introduce urgency triggers like limited stock indicators to capitalise on fast decision-making.
+- Average order value is ~R106 — consider product bundling or upsell prompts at checkout to increase revenue per transaction.
+
 ## SQL Queries
 Full analysis available in [`Funnel_Analysis.sql`](Funnel_Analysis.sql)
