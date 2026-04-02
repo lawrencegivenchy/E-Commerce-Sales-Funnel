@@ -30,8 +30,6 @@ Measured average time in minutes for users to move from page view to cart and ca
 ### 5. Revenue Analysis
 Calculated total revenue, average order value, revenue per buyer and revenue per visitor.
 
-## Dashboard
-![Dashboard](Sales_Funnel_Analysis.pdf)
 
 ## Key Findings
 - Overall funnel conversion rate from page view to purchase was 18.5%
@@ -46,5 +44,13 @@ Calculated total revenue, average order value, revenue per buyer and revenue per
 - Average journey is under 25 minutes — introduce urgency triggers like limited stock indicators to capitalise on fast decision-making.
 - Average order value is ~R106 — consider product bundling or upsell prompts at checkout to increase revenue per transaction.
 
-## SQL Queries
-Full analysis available in [`Funnel_Analysis.sql`](Funnel_Analysis.sql)
+
+## 🎥 How to View
+
+- 💻 **SQL Code** – All queries and views used for the funnel analysis → 🔗 [View SQL Scripts](Funnel_Analysis.sql)
+- 📊 **Power BI File** – Full interactive dashboard → 🔗 [View Dashboard](Sales_Funnel_Analysis.pbix)
+- 📄 **Dashboard PDF** – Static version of the dashboard → 🔗 [View Dashboard PDF](Sales_Funnel_Analysis.pdf)
+- 📝 **Project Description** – Objective and aims of the analysis → 🔗 [View Project Description](Project-Description.pdf)
+- 📅 **Gantt Chart** – Project timeline and planning → 🔗 [View Gantt Chart](GANTTcharts.pdf)
+- 🧠 **Methodology Diagram** – Flowchart of the analytical approach → 🔗 [View Methodology](Ecom-Funnel.drawio.png)
+- 📂 **Raw Data** – Original user events CSV → 🔗 [View Raw Data](user_events.csv)
